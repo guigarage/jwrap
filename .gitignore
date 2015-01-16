@@ -10,3 +10,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+ui-framework.iml
+.idea
+jwrap-core.iml
+jwrap-core/target
+jwrap-ios/target
+jwrap-jfx/target
+jwrap-swing/target
+jwrap-swing.iml
+jwrap-swinmg.iml
+jwrap-ios.iml
+jwrap-jfx.iml

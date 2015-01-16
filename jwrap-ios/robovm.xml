@@ -1,0 +1,6 @@
+<config>
+    <executableName>app</executableName>
+    <mainClass>com.guigarage.uif.examples.ios.IOSDemoMain</mainClass>
+    <os>ios</os>
+    <arch>x86</arch>
+</config>
